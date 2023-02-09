@@ -1,0 +1,16 @@
+id: I5818BEA8
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:37:39.786810
+last_modified: 2023-02-09 14:37:39.786938
+source_metadata:
+  title: Vimalakīrtinirdeśa
+  language: sa
+bases:
+  1E2D:
+    base_file: 1E2D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
